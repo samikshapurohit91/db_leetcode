@@ -44,7 +44,6 @@ Output:
 +------+
 
 
-
 # MySQL Query:
 
 select name from Employee 
