@@ -41,7 +41,6 @@ Tweet 2 has length = 33. It is an invalid tweet.
 
 
 
-
 #MySQL Query
 
 Select tweet_id from Tweets
